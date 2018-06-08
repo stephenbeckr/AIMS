@@ -1,4 +1,4 @@
-# Eucludiean Distance Matrix example
+# Euclidean Distance Matrix example
 
 See the demo script:
 
