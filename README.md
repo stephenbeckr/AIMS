@@ -27,3 +27,6 @@ On Monday June 11, we covered gradient descent and variants (sub-gradient, stoch
 
 For a history of stochastic approximation, see
 - Nemirovski, Arkadi, Anatoli Juditsky, Guanghui Lan, and Alexander Shapiro. [Robust stochastic approximation approach to stochastic programming](http://epubs.siam.org/doi/abs/10.1137/070704277) SIAM Journal on optimization 19, no. 4 (2009): 1574-1609.
+
+For more on degeneracy, focused on SDP, see
+- Dmitriy Drusvyatskiy, Henry Wolkowicz. [The many faces of degeneracy in conic optimization](https://arxiv.org/abs/1706.03705), Foundations and Trends in Optimization, 2017
