@@ -5,6 +5,8 @@ Taught by Stephen Becker (University of Colorado, Applied Mathematics)
 
 Details at the [course announcement website](http://www.talks.cam.ac.uk/talk/index/104548)
 
+To leave feedback, please see this [Google Form](https://goo.gl/forms/ajPW015U4ft4iBx72)
+
 ## Convex Optimisation References
 There are many great books to suggest. The ones below are all excellent, and these are the books I used most for preparing these notes.
 - [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/) by S. Boyd and L. Vandenberghe,  (Cambridge U. Press, 2004; available online at Boyd's website)
