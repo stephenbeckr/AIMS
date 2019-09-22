@@ -1,6 +1,6 @@
 %{
-For CVX in-class tutorial, CCIMI short-course at Cambridge,
- June 2018, Becker
+For CVX in-class tutorial, AIMS South Africa short-course
+ Sept 23 2019, Stephen Becker
 %}
 %% Setup the matrix:
 % rng(0);
