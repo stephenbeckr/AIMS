@@ -7,8 +7,9 @@ Taught by Stephen Becker (University of Colorado, Applied Mathematics)
 
 Details at the [AIMS Spring School on Mathematics of Data Science website](https://aims.ac.za/2019/04/18/spring-school-on-mathematics-of-data-science/)
 
+See the [Lipschitz/strong-convexity inequalities](inequalities.pdf) cheat-sheet for the course
 
-## Convex Optimisation References
+## Convex Optimization References
 There are many great books to suggest. The ones below are all excellent, and these are the books I used most for preparing these notes.
 - [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/) by S. Boyd and L. Vandenberghe,  (Cambridge U. Press, 2004; available online at Boyd's website)
 	- A popular (and rightly so) introduction to convex optimization, with many examples. This is a great source to get ideas on how to prove that your function is convex (follow the examples and exercises)
