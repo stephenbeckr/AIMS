@@ -8,5 +8,5 @@ Newton's method, on the other hand, often converges to saddle points and even lo
 
 See the demo script:
 
-[Demo in HTML format](http://htmlpreview.github.io/?https://github.com/stephenbeckr/CambridgeOptimisationCourse/blob/master/Nonconvex_demo/nonconvex_example_2D.html)
+[Demo in HTML format](http://htmlpreview.github.io/?https://github.com/stephenbeckr/AIMS/blob/master/Nonconvex_demo/nonconvex_example_2D.html)
 (this link uses the nice htmlpreview.github.io website; if you just click the raw html file, it will not render)
